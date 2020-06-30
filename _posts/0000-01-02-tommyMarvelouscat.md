@@ -2,4 +2,4 @@
 layout: slide
 title: "Ceci est mon second Slide !"
 ---
-Hey vas-y utilises la fleche de gauche pour retourner en arriere !
+Bon ben finalement les bases de Git hub ne semblent pas si difficiles !
